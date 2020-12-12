@@ -1,2 +1,2 @@
 create table student(roll_no,Name,DOB)
-
+update table student set address=khar where roll no =4
